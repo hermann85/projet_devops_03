@@ -22,3 +22,9 @@ Add script_ansible.sh as provisionning
 
 Add ansible local provision 
 
+----
+## connect vagrant ssh
+
+ansible --version: ansible 2.9.2
+
+docker --version: docker 19.03.5
