@@ -5,3 +5,10 @@ apt-add-repository --yes --update ppa:ansible/ansible
 
 ### Ansible installation
 apt-get install -y ansible
+
+
+### Install Pelican
+
+
+
+
